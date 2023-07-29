@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f0e0d0;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.heading{
+  display: flex;
+  display: inline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(121, 44, 0);
+ 
+}
+.form-control-file{
+  font-size: 18px;
+}
+.btn-block{
+  background-color: rgb(231, 136, 92);
+  color: black;
+}
+
+.btn-block:hover{
+  background-color: rgb(138, 52, 3);
+  color: bisque;
+}
