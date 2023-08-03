@@ -1,4 +1,7 @@
 # number_plate_detection
-git clone 
+## git clone
+https://github.com/ananya09verma/number_plate_detection.git
 
-run- python webapp.py
+## Run
+python webapp.py
+
